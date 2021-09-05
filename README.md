@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am Rohan Deshpande
+#### A Frontend Developer :computer:  
+#### Javascript Enthusiast :heart::heart:
 
-I'm Rohan Deshpande from Maharashtra and I am a Frontend Developer. I currently spend most of my time learning new frameworks like React and Nextjs as well as Nodejs and Express. I also enjoy creating UI, UX designs, prototypes and minimalistic designs. You can always check me at https://rohan-dev.vercel.com
+- A self taught Frontend Developer who loves building  _Well optimised, Minimalist Powerful web apps_
+- Proficient in Javascript and enjoys learning new frameworks & technologies around Js Ecosytem. 
+- Enjoys creating UI, UX designs, prototypes, and minimalistic designs & icons. 
+- You can always check my work at https://rohan-dev.vercel.app
+- Currently **looking out for job as a Frontend Developer**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshpande-rohan)](https://github.com/anuraghazra/github-readme-stats)
+### Skills
+##### :atom_symbol: React, Redux
+##### :computer: HTML CSS JS
+##### :paintbrush: Tailwind css, Bootstrap, Material UI, Figma
+
+
+- 🌱 Currently learning Redux, Nodejs, Express 
+- 📫 How to reach me: rohandeshpande199@gmail.com 
