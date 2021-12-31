@@ -5,7 +5,7 @@
 - A self taught Frontend Developer who loves building  _Well optimised, Minimalist Powerful web apps_
 - Proficient in Javascript and enjoys learning new frameworks & technologies around Js Ecosytem. 
 - Enjoys creating UI, UX designs, prototypes, and minimalistic designs & icons.
-- _Skills_: React, HTML, CSS, Javascript, Tailwind css, Bootstrap, Material UI, Figma 
+- _Skills_: React, HTML, CSS, Javascript, Figma, Tailwind css, Bootstrap, Material UI.
 - You can always check my work at https://dev-rohan.vercel.app
 ---
 - 🌱 Learning Typescript, Next.js 
